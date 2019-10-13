@@ -1,2 +1,2 @@
 #  Neural-Network
-Implementaion of Neural network
+Implementaion of Neural network from scratch 
